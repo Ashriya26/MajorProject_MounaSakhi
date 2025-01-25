@@ -81,3 +81,16 @@ The animated avatars for ISL translation.
   <img src="images/avatar3.jpeg" alt="Avatar 3" width="220" />
   <img src="images/avatar4.jpeg" alt="Avatar 4" width="220" />
 </div>
+
+## Contributors
+
+- **Ashriya Rego** (@Ashriya26) 
+- **Amisha Ananda Gowda** (@Amisha-Ananda-Gowda)  
+- **Annia Dsouza** (@AnniaDsouza)
+
+---
+
+For access to the full project or any queries, please feel free to contact me:
+
+- **Email**: [edelash26@gmail.com](mailto:edelash26@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ashriya-rego](https://linkedin.com/in/ashriya-rego)
